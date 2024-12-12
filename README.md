@@ -1,0 +1,1 @@
+This project was built to understand React . In this project Swiggy API is used to fetch real time data . Click here for demo of the project :- https://1drv.ms/v/s!AocsAdhFvCo9gXRNcHKpX8jYLTIG?e=Fy5kx3
